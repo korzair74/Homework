@@ -1,0 +1,30 @@
+.container {
+	background-color: #ffffff;
+	display: grid;
+	grid-template-columns: 10% 1fr 10%;
+
+	.wrapper {
+		background-color: #778899;
+	}
+}
+
+h1 {
+	font-family: "Eczar", serif;
+	font-size: 2.5em;
+	color: #111130;
+}
+
+h2 {
+	font-family: "Work Sans", sans-serif;
+	font-size: 1.25em;
+	color: #2ce1e7;
+}
+h2:hover {
+	font-size: 1.5em;
+	color: #ffc959;
+}
+li {
+	font-family: "Gentium Basic", serif;
+	font-size: 1.5em;
+	color: #111130;
+}
