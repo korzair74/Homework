@@ -1,3 +1,5 @@
+
+ ***New Scrape***
 Installing Anaconda Python Data Science Platform
 Python Libraries To Import For Data Science Programs
 Shortcut For Opening The Object Inspector In Python Spyder
@@ -8,7 +10,10 @@ How To Think Like A Computer Scientist
 Base Case Example For How To Test A Python Class
 Installing And Working With Pipenv
 Steps For Building A Flask Api Application With Python 3
+
 ****End of scrape***
+
+ ***New Scrape***
 Installing Anaconda Python Data Science Platform
 Python Libraries To Import For Data Science Programs
 Shortcut For Opening The Object Inspector In Python Spyder
@@ -19,4 +24,33 @@ How To Think Like A Computer Scientist
 Base Case Example For How To Test A Python Class
 Installing And Working With Pipenv
 Steps For Building A Flask Api Application With Python 3
+
+****End of scrape***
+
+ ***New Scrape***
+Installing Anaconda Python Data Science Platform
+Python Libraries To Import For Data Science Programs
+Shortcut For Opening The Object Inspector In Python Spyder
+Python Script For Replacing Missing Data In A Machine Learning Algorithm
+Python Script For Pulling In The Same Column From An Array Of Arrays
+How To Implement Fizzbuzz In Python
+How To Think Like A Computer Scientist
+Base Case Example For How To Test A Python Class
+Installing And Working With Pipenv
+Steps For Building A Flask Api Application With Python 3
+
+****End of scrape***
+
+ ***New Scrape***
+Installing Anaconda Python Data Science Platform
+Python Libraries To Import For Data Science Programs
+Shortcut For Opening The Object Inspector In Python Spyder
+Python Script For Replacing Missing Data In A Machine Learning Algorithm
+Python Script For Pulling In The Same Column From An Array Of Arrays
+How To Implement Fizzbuzz In Python
+How To Think Like A Computer Scientist
+Base Case Example For How To Test A Python Class
+Installing And Working With Pipenv
+Steps For Building A Flask Api Application With Python 3
+
 ****End of scrape***

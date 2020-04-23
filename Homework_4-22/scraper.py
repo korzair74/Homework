@@ -36,10 +36,11 @@ links = soup.find_all('a')
 titles = title_generator(links)
 #new code below
 doc = open('homework_4-22/title_doc.txt', 'a')
-
+doc.write(f'\n ***New Scrape***\n')
 for title in titles:
   doc.write(f'{title}\n')
-doc.write('****End of scrape***\n')
+doc.write('\n****End of scrape***\n')
+doc.close()
 
   
 
