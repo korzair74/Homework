@@ -1,0 +1,22 @@
+Homework 04-22
+Pipenv
+
+    Challenge yourself to create all of these challenges as their own pipenv folders
+
+Write To A File
+
+    Take the request/beautiful soup project that we work on today and make it write to a file instead of printing
+
+List Challenge
+
+    Write a Python program to get the largest number from a list.
+    Write a Python program to get the smallest number from a list.
+    Extra Credit:
+    Combine the two functions and add an argument that determines if the function will return the largest or smallest
+
+Dictionary/String Challenge
+
+    Write a Python program to count the number of characters (character frequency) in a string.
+    Sample String : google.com'
+    Expected Result : {'o': 3, 'g': 2, '.': 1, 'e': 1, 'l': 1, 'm': 1, 'c': 1}
+

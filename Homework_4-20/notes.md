@@ -1,4 +1,4 @@
-<!-- Gravatar for danielfloyd@bottega.tech
+<!-- danielfloyd@bottega.tech
 Daniel FloydApril 20th 2020 6:58:07 pm
 Homework 04-20
 Tuples
