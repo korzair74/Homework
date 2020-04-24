@@ -1,0 +1,20 @@
+Homework 04-23
+
+    Build three classes, two of which must inherit from the first and employ polymorphism. Between the three classes, there must be at least 5 methods, 3 instance attributes, 1 class attribute, and the parent class should have a dunder init. If you want you can add dunder str and dunder repr to each class.
+
+Helpful Resources:
+
+    https://docs.python.org/3/tutorial/classes.html
+    https://www.w3schools.com/python/python_classes.asp
+    https://www.w3schools.com/python/python_inheritance.asp
+    https://www.hackerearth.com/practice/python/object-oriented-programming/classes-and-objects-i/tutorial/
+
+File System Extra Videos
+
+    Appending to a File in Python
+        https://bottega.devcamp.com/18/guide/2508
+    Reading and Working with File Data in Python
+        https://bottega.devcamp.com/18/guide/2509
+    How to Delete Files in Python
+        https://bottega.devcamp.com/18/guide/2510
+
