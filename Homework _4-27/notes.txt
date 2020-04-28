@@ -1,0 +1,10 @@
+Mongo
+
+    Create a new Mongo Database, load 6 “documents” into a Mongo Collection all at once, show how to delete the 3rd, and 5th documents that you added. You should only have 4 documents left.
+    Write down each step for me to review, "To create a new DB, I did this: etc"
+
+Code Challenge Websites
+
+    Head over to the following website that has a list of code challenge websites
+    Pick one that looks interesting to you and do at least one code challenge from that website
+    https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/
