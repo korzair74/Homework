@@ -1,0 +1,69 @@
+Homework 05-01 Weekend
+During the weekends I want you to take the skills
+ you learned during the week and apply them to 
+ personal projects. I also send out essay questions,
+ please send me your answers. These essay questions 
+ will help you remember what topics we covered 
+ during the week.
+ 
+Essay Questions
+MongoDB for Developers
+
+    What is MongoDB
+    What is a MongoDB Collection
+    What is a Document and how do you use them in MongoDB?
+    What is the find() method used for?
+    What is the .pretty used for?
+    What is the difference between SQL databases and MongoDB
+    How would you add a document in a MongoDB database
+    How would you use a projection?
+    How do you run a local instance of mongo
+    How would you delete a document
+
+Introduction to JavaScript
+
+    How do you set variables in javascript
+    What is javascript hoisting
+    List 3 javascript datatypes
+    What is the order of operations in Javascript
+    How do you use conditionals in javascript?
+    What is a switch statement, and how would you use one?
+    What is a ternary operator
+    What is a function?
+    What is a function argument?
+    What is the "this" keyword in javascript?
+    What is a Javascript array?
+    What is a Javascript object?
+    List 3 types of javascript loops
+
+Modern JavaScript
+
+    Explain the const variable.
+    What do you use for modern string interpolation in Javascript
+    Explain an arrow function and how you might use one
+    What is array destructuring?
+    What is the javascript spread operator what is it used for?
+    What is Variable Deconstruction in Javascript!
+    How does the this keyword work with arrow functions
+    How do you pass a javascript object as function arguments by leveraging deconstruction?
+    What is a Javascript Promise?
+    What is a Javascript fetch Promise and how might you use it?
+    What is async and await in javascript and what purpose does it serve in Javascript?
+    What is error handling in a Javascript async/await function, and how might you use it?
+
+Extra Ideas:
+Diner Menu
+
+    Continue working on your Bottega Diner Menu
+    https://bottega.devcamp.com/full-stack-development-javascript-python/guide/build-out-a-diner-menu-using-javascript
+
+Fetch
+
+    Fetch The Following API Data
+    https://jsonplaceholder.typicode.com/users
+    console.log the following statement
+    Clementine Bauch lives in McKenziehaven and works for Romaguera-Jacobson
+    The values you need are the user's name, city, and company name. You will need to find these values inside the data that you get back from the API.
+    Extra Credit:
+    Render that data to the DOM instead of the console
+
